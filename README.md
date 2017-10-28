@@ -7,6 +7,7 @@ In this project, I build a model that can auto-classify the products based on th
 
 ## Method
 
+Keras tensorflow multiplyer NN
 
 ## Reference
 Part of [Kaggle](https://www.kaggle.com/c/cdiscount-image-classification-challenge) competition
@@ -17,4 +18,7 @@ Part of [Kaggle](https://www.kaggle.com/c/cdiscount-image-classification-challen
 - tensorflow
 - keras
 - bson
+
+## Final note
+Data too big and my macbook doesn't have enough memory and storage after all. 
 
